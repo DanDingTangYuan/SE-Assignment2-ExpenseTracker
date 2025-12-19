@@ -56,6 +56,8 @@ cover/
 *.pot
 .csv
 *.csv
+.png
+*.png
 # Django stuff:
 *.log
 local_settings.py
