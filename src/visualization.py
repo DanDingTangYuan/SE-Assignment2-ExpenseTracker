@@ -47,7 +47,7 @@ def generate_pie_chart():
         plt.show()
         
     except FileNotFoundError:
-        print("錯誤：找不到 expenses.csv，請先執行輸入模組。") [cite: 13]
+        print("錯誤：找不到 expenses.csv，請先執行輸入模組。") 
 
 if __name__ == "__main__":
     generate_pie_chart()
